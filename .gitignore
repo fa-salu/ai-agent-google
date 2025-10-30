@@ -1,0 +1,36 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+venv/
+.env/
+env/
+
+# System and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+*.bak
+
+# Local configuration
+*.local
+*.cfg
+*.ini
+
+# Jupyter notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Node-related (if you’re using npm in the project)
+node_modules/
+package-lock.json
